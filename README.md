@@ -1,4 +1,4 @@
-# HR_analyis
+# HR_analysis
 # Abstract
 Today's world, every company is interested in predicting employee performance and
 attrition based on employee performance evaluations conducted quarterly or
